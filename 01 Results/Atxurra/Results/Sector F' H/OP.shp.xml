@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20210729</CreaDate><CreaTime>22510200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPoint" Date="20210729" Time="225102">RasterToPoint C:\LOS\OPosition.tif C:/LOS\OP.shp VALUE</Process></lineage></DataProperties></Esri></metadata>

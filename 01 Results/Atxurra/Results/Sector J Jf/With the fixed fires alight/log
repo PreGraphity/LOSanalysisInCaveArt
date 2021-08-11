@@ -1,0 +1,2 @@
+202107272317   0     0     0inaki C:\LOS\OPKernelDensity.tif = POINTDENSITY(C:\LOS\OPs, Frequency, 0.25, KERNEL, 1.0, 2.0)
+202107272317   0     0     0inaki C:\LOS\TPKernelDensity.tif = POINTDENSITY(C:\LOS\TPs, Frequency, 0.25, KERNEL, 1.0, 2.0)

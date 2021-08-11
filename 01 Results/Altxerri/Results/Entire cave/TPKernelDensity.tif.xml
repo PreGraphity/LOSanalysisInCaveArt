@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20210708</CreaDate><CreaTime>20150900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\KernelDensity" Date="20210708" Time="201509">KernelDensity C:/LOS\TP.shp Frequency C:/LOS\TPKernelDensity.tif 0,25 2 SQUARE_MAP_UNITS DENSITIES PLANAR</Process></lineage></DataProperties></Esri></metadata>

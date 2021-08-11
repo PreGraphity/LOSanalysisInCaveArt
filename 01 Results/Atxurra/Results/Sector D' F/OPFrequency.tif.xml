@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20210729</CreaDate><CreaTime>22165300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\PointToRaster" Date="20210729" Time="221653">PointToRaster C:/LOS\OPs.shp Frequency C:/LOS\OPFrequency.tif MAXIMUM NONE 0,25</Process></lineage></DataProperties></Esri></metadata>

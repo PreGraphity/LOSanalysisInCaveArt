@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20210728</CreaDate><CreaTime>11552500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\MultipatchToRaster" Date="20210728" Time="115525">MultipatchToRaster C:/LOS\CeilingsMin.shp C:/LOS\CeilingsMin.tif 0,05</Process></lineage></DataProperties></Esri></metadata>

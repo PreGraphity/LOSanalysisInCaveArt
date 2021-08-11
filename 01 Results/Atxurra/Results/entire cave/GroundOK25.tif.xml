@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20210701</CreaDate><CreaTime>20291200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\MultipatchToRaster" Date="20210701" Time="202912">MultipatchToRaster C:/LOS\GroundOK.shp C:/LOS\GroundOK25.tif 0,25</Process></lineage></DataProperties></Esri></metadata>
